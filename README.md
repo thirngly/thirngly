@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thirngly
 - 👀 I’m interested in software engineering.
 - 🌱 I'm currently learning basic code.
-- 💞️ I want to save my learning history here.
+- 💞️ I want to upload my learning history here.
 - let's be friend, sharing each other experience in coding.
 
 <!---
