@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering.
 - 🌱 I'm currently learning basic code.
 - 💞️ I want to save my learning history here.
-- we can be friend, sharing each other experience in coding.
+- let's be friend, sharing each other experience in coding.
 
 <!---
 thirngly/thirngly is a ✨ special ✨ repository because its `THIRNGLY.md` (this file) appears on your GitHub profile.
